@@ -19,7 +19,7 @@ This is a **Tic-Tac-Toe** game developed in **C** using the **Raylib** library a
 - https://alyoexe.github.io/tictactoe/main.html
 
 ## Screenshots
-![Tic-Tac-Toe Gameplay](gameonlaptop.png)
+![Tic-Tac-Toe Gameplay](/gameonlaptop.png)
 
 ## Contribution
 Contributions are welcome! If you want to improve the game, feel free to fork this repository, make your changes, and submit a pull request.
