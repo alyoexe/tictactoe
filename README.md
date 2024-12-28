@@ -20,6 +20,7 @@ This is a **Tic-Tac-Toe** game developed in **C** using the **Raylib** library a
 
 ## Screenshots
 ![Tic-Tac-Toe Gameplay](/gameonlaptop.PNG)
+![Tic-Tac-Toe Gameplay](/gameonmobile.jpg)
 
 ## Contribution
 Contributions are welcome! If you want to improve the game, feel free to fork this repository, make your changes, and submit a pull request.
