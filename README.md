@@ -15,10 +15,11 @@ This is a **Tic-Tac-Toe** game developed in **C** using the **Raylib** library a
 - **Emscripten SDK**: To compile the game for the web using WebAssembly.
 
 ## How to Run the Game
-
+- Open link on any browser.
+- https://alyoexe.github.io/tictactoe/main.html
 
 ## Screenshots
-![Tic-Tac-Toe Gameplay](path-to-screenshot.png)
+![Tic-Tac-Toe Gameplay](gameonlaptop.png)
 
 ## Contribution
 Contributions are welcome! If you want to improve the game, feel free to fork this repository, make your changes, and submit a pull request.
