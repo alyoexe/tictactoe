@@ -33,5 +33,5 @@ This project is licensed under the [MIT License](LICENSE).
 - Thanks to the **Emscripten** team for enabling C applications to run on the web.
 
 ## Contact
-For any questions or suggestions, feel free to contact me at [your-email@example.com].
+For any questions or suggestions, feel free to contact me.
 
