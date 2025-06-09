@@ -22,6 +22,12 @@ This is a **Tic-Tac-Toe** game developed in **C** using the **Raylib** library a
 ![Tic-Tac-Toe Gameplay](/gameonlaptop.PNG)
 ![Tic-Tac-Toe Gameplay](/gameonmobile.jpg)
 
+
+## 🔀 New Modded Version Available!
+A new "Glitched Mode" of this game is now available in a separate repository! In this version, each move has a 50% chance to flip (X becomes O or vice versa), adding a chaotic and unpredictable twist to the classic gameplay. It supports both player vs player and player vs computer modes with the same clean interface and Minimax logic.
+
+👉 Check out the Glitched Version here (https://github.com/alyoexe/tictactoe-moded)
+
 ## Contribution
 Contributions are welcome! If you want to improve the game, feel free to fork this repository, make your changes, and submit a pull request.
 
